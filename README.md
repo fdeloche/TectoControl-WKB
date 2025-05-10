@@ -6,4 +6,4 @@ References:
 
  * Pre-print: Proceeding of the *Mechanics of Hearing Workshop 2024 (MoH 2024)*, Ann Arbor, Michigan, USA.  https://doi.org/10.5281/zenodo.11210647
 
-©Ghent University - 2025
+© 2025 - Ghent University
